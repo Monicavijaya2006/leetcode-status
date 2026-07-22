@@ -23,6 +23,7 @@
 | [0042-trapping-rain-water](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0046-permutations) |
+| [0456-132-pattern](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0457-circular-array-loop) |
 | [1331-rank-transform-of-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1331-rank-transform-of-an-array) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1632-rank-transform-of-a-matrix) |
@@ -113,6 +114,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0035-search-insert-position) |
+| [0456-132-pattern](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0456-132-pattern) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Monicavijaya2006/leetcode-status/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -177,6 +179,7 @@
 | [0020-valid-parentheses](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0456-132-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
@@ -208,6 +211,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0456-132-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
@@ -278,4 +282,8 @@
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0458-poor-pigs) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
