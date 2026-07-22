@@ -29,6 +29,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0368-largest-divisible-subset](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0368-largest-divisible-subset) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0384-shuffle-an-array) |
 | [0419-battleships-in-a-board](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -67,6 +68,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0355-design-twitter) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0383-ransom-note) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0424-longest-repeating-character-replacement) |
@@ -110,6 +112,7 @@
 | [0365-water-and-jug-problem](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0368-largest-divisible-subset) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0384-shuffle-an-array) |
 | [0441-arranging-coins](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0445-add-two-numbers-ii) |
@@ -415,6 +418,7 @@
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0355-design-twitter) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0449-serialize-and-deserialize-bst) |
@@ -478,6 +482,7 @@
 ## Randomized
 |  |
 | ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0384-shuffle-an-array) |
 ## Data Stream
 |  |
