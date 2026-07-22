@@ -198,6 +198,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0456-132-pattern) |
@@ -513,4 +514,8 @@
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
