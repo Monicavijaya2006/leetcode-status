@@ -92,6 +92,7 @@
 | [0038-count-and-say](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0044-wildcard-matching) |
+| [0459-repeated-substring-pattern](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0459-repeated-substring-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0459-repeated-substring-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
