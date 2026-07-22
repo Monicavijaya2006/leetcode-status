@@ -197,12 +197,14 @@
 |  |
 | ------- |
 | [1632-rank-transform-of-a-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1632-rank-transform-of-a-matrix) |
+| [2685-count-the-number-of-complete-components](https://github.com/Monicavijaya2006/leetcode-status/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Monicavijaya2006/leetcode-status/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [1632-rank-transform-of-a-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1632-rank-transform-of-a-matrix) |
+| [2685-count-the-number-of-complete-components](https://github.com/Monicavijaya2006/leetcode-status/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
@@ -220,6 +222,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Monicavijaya2006/leetcode-status/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Monicavijaya2006/leetcode-status/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -230,4 +233,8 @@
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Monicavijaya2006/leetcode-status/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
