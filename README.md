@@ -45,6 +45,7 @@
 | [0012-integer-to-roman](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
