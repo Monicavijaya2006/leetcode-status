@@ -156,6 +156,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0023-merge-k-sorted-lists) |
 | [0427-construct-quad-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0427-construct-quad-tree) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 ## Two Pointers
 |  |
 | ------- |
@@ -365,6 +366,7 @@
 | ------- |
 | [0427-construct-quad-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0427-construct-quad-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0572-subtree-of-another-tree) |
 ## Database
