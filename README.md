@@ -67,6 +67,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0355-design-twitter) |
+| [0383-ransom-note](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0383-ransom-note) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0432-all-oone-data-structure) |
@@ -151,6 +152,7 @@
 | [0043-multiply-strings](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0044-wildcard-matching) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0388-longest-absolute-file-path) |
 | [0420-strong-password-checker](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0420-strong-password-checker) |
@@ -442,6 +444,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0451-sort-characters-by-frequency) |
 ## Tree
 |  |
