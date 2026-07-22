@@ -133,6 +133,7 @@
 | [0038-count-and-say](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0044-wildcard-matching) |
+| [0388-longest-absolute-file-path](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0388-longest-absolute-file-path) |
 | [0420-strong-password-checker](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0420-strong-password-checker) |
 | [0424-longest-repeating-character-replacement](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0433-minimum-genetic-mutation) |
@@ -245,6 +246,7 @@
 | [0020-valid-parentheses](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0042-trapping-rain-water) |
+| [0388-longest-absolute-file-path](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0388-longest-absolute-file-path) |
 | [0445-add-two-numbers-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -342,6 +344,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0388-longest-absolute-file-path](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0388-longest-absolute-file-path) |
 | [0419-battleships-in-a-board](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0449-serialize-and-deserialize-bst) |
