@@ -96,6 +96,7 @@
 | [0013-roman-to-integer](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0043-multiply-strings) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0368-largest-divisible-subset) |
@@ -213,6 +214,7 @@
 | [0042-trapping-rain-water](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0045-jump-game-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0368-largest-divisible-subset) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0458-poor-pigs) |
@@ -252,6 +254,7 @@
 | [0039-combination-sum](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0046-permutations) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0357-count-numbers-with-unique-digits) |
 ## Stack
 |  |
 | ------- |
