@@ -316,6 +316,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Segment Tree
@@ -344,6 +345,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0388-longest-absolute-file-path) |
 | [0419-battleships-in-a-board](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
