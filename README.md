@@ -302,6 +302,7 @@
 | ------- |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0433-minimum-genetic-mutation](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0433-minimum-genetic-mutation) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Monicavijaya2006/leetcode-status/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Monicavijaya2006/leetcode-status/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -319,6 +320,7 @@
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0572-subtree-of-another-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Monicavijaya2006/leetcode-status/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
@@ -363,6 +365,7 @@
 | ------- |
 | [0427-construct-quad-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0427-construct-quad-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0572-subtree-of-another-tree) |
 ## Database
 |  |
