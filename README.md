@@ -120,6 +120,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0459-repeated-substring-pattern) |
+| [0583-delete-operation-for-two-strings](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0583-delete-operation-for-two-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -174,6 +175,7 @@
 | [0044-wildcard-matching](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0045-jump-game-ii) |
 | [0458-poor-pigs](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0458-poor-pigs) |
+| [0583-delete-operation-for-two-strings](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0583-delete-operation-for-two-strings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greedy
 |  |
