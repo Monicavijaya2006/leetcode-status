@@ -117,6 +117,7 @@
 | [0365-water-and-jug-problem](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0384-shuffle-an-array) |
@@ -245,6 +246,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0377-combination-sum-iv) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -507,4 +509,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0347-top-k-frequent-elements) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
