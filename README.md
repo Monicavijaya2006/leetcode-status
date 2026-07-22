@@ -134,6 +134,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0459-repeated-substring-pattern) |
@@ -182,6 +183,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0042-trapping-rain-water) |
+| [0443-string-compression](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0457-circular-array-loop) |
 | [0556-next-greater-element-iii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0556-next-greater-element-iii) |
