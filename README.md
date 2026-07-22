@@ -22,6 +22,7 @@
 | [0042-trapping-rain-water](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0046-permutations) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1632-rank-transform-of-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [0015-3sum](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0018-4sum) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1632-rank-transform-of-a-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0036-valid-sudoku) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1632-rank-transform-of-a-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -172,4 +175,16 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0043-multiply-strings) |
+## Union-Find
+|  |
+| ------- |
+| [1632-rank-transform-of-a-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1632-rank-transform-of-a-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [1632-rank-transform-of-a-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1632-rank-transform-of-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [1632-rank-transform-of-a-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1632-rank-transform-of-a-matrix) |
 <!---LeetCode Topics End-->
