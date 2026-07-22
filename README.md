@@ -87,6 +87,7 @@
 | [0043-multiply-strings](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0043-multiply-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0458-poor-pigs) |
+| [0556-next-greater-element-iii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0564-find-the-closest-palindrome) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -127,6 +128,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0459-repeated-substring-pattern) |
+| [0556-next-greater-element-iii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0564-find-the-closest-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0583-delete-operation-for-two-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -173,6 +175,7 @@
 | [0042-trapping-rain-water](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0457-circular-array-loop) |
+| [0556-next-greater-element-iii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0556-next-greater-element-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Dynamic Programming
 |  |
