@@ -23,6 +23,7 @@
 | [0042-trapping-rain-water](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0046-permutations) |
+| [1331-rank-transform-of-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1331-rank-transform-of-an-array) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1632-rank-transform-of-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Monicavijaya2006/leetcode-status/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -38,6 +39,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0036-valid-sudoku) |
+| [1331-rank-transform-of-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
@@ -145,6 +147,7 @@
 | [0015-3sum](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0018-4sum) |
+| [1331-rank-transform-of-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1331-rank-transform-of-an-array) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1632-rank-transform-of-a-matrix) |
 ## Backtracking
 |  |
