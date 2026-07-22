@@ -62,6 +62,7 @@
 | [0013-roman-to-integer](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0043-multiply-strings) |
+| [0458-poor-pigs](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0458-poor-pigs) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -142,6 +143,7 @@
 | [0042-trapping-rain-water](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0045-jump-game-ii) |
+| [0458-poor-pigs](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0458-poor-pigs) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greedy
 |  |
@@ -269,4 +271,8 @@
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0460-lfu-cache) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
