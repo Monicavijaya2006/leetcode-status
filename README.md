@@ -177,6 +177,7 @@
 | [0044-wildcard-matching](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0045-jump-game-ii) |
 | [0458-poor-pigs](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0458-poor-pigs) |
+| [0576-out-of-boundary-paths](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0583-delete-operation-for-two-strings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greedy
