@@ -240,6 +240,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0572-subtree-of-another-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -313,6 +314,7 @@
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0572-subtree-of-another-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0572-subtree-of-another-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Monicavijaya2006/leetcode-status/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
@@ -356,8 +358,17 @@
 | ------- |
 | [0427-construct-quad-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0427-construct-quad-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0572-subtree-of-another-tree) |
 ## Database
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0577-employee-bonus) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
