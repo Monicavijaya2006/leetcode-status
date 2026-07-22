@@ -59,6 +59,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0036-valid-sudoku) |
+| [0355-design-twitter](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0355-design-twitter) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0432-all-oone-data-structure) |
@@ -83,6 +84,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0025-reverse-nodes-in-k-group) |
+| [0355-design-twitter](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0355-design-twitter) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0445-add-two-numbers-ii) |
@@ -271,6 +273,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0355-design-twitter) |
 | [0420-strong-password-checker](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0451-sort-characters-by-frequency) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Monicavijaya2006/leetcode-status/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -387,6 +390,7 @@
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0355-design-twitter) |
 | [0384-shuffle-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0449-serialize-and-deserialize-bst) |
