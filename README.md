@@ -60,6 +60,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0036-valid-sudoku) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0355-design-twitter) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0424-longest-repeating-character-replacement) |
@@ -174,6 +175,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0035-search-insert-position) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0367-valid-perfect-square) |
@@ -321,6 +323,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1632-rank-transform-of-a-matrix) |
 | [2685-count-the-number-of-complete-components](https://github.com/Monicavijaya2006/leetcode-status/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Monicavijaya2006/leetcode-status/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -394,6 +397,7 @@
 ## Design
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0355-design-twitter) |
 | [0384-shuffle-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0432-all-oone-data-structure) |
@@ -412,6 +416,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0456-132-pattern) |
 ## Bucket Sort
@@ -455,4 +460,8 @@
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0384-shuffle-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
