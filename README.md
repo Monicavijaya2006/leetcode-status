@@ -352,4 +352,8 @@
 | ------- |
 | [0427-construct-quad-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0427-construct-quad-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0429-n-ary-tree-level-order-traversal) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
