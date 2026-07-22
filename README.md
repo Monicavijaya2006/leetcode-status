@@ -40,6 +40,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0036-valid-sudoku) |
+| [0460-lfu-cache](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0460-lfu-cache) |
 | [1331-rank-transform-of-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
@@ -51,6 +52,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0025-reverse-nodes-in-k-group) |
+| [0460-lfu-cache](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0460-lfu-cache) |
 ## Math
 |  |
 | ------- |
@@ -259,4 +261,12 @@
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Design
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
