@@ -23,6 +23,7 @@
 | [0042-trapping-rain-water](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0046-permutations) |
+| [0384-shuffle-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0384-shuffle-an-array) |
 | [0419-battleships-in-a-board](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0427-construct-quad-tree) |
@@ -93,6 +94,7 @@
 | [0013-roman-to-integer](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0043-multiply-strings) |
+| [0384-shuffle-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0384-shuffle-an-array) |
 | [0441-arranging-coins](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0447-number-of-boomerangs) |
@@ -369,6 +371,7 @@
 ## Design
 |  |
 | ------- |
+| [0384-shuffle-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0460-lfu-cache) |
@@ -423,4 +426,8 @@
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0450-delete-node-in-a-bst) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
