@@ -32,6 +32,7 @@
 | [0455-assign-cookies](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0457-circular-array-loop) |
+| [0575-distribute-candies](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1331-rank-transform-of-an-array) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1632-rank-transform-of-a-matrix) |
@@ -58,6 +59,7 @@
 | [0454-4sum-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0460-lfu-cache) |
+| [0575-distribute-candies](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0575-distribute-candies) |
 | [1331-rank-transform-of-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
