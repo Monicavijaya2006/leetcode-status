@@ -118,6 +118,7 @@
 | [0365-water-and-jug-problem](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0368-largest-divisible-subset) |
+| [0372-super-pow](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -212,6 +213,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0372-super-pow) |
 | [0427-construct-quad-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0427-construct-quad-tree) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 ## Two Pointers
