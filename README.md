@@ -133,6 +133,7 @@
 | [0038-count-and-say](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0044-wildcard-matching) |
+| [0385-mini-parser](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0388-longest-absolute-file-path) |
 | [0420-strong-password-checker](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0420-strong-password-checker) |
 | [0424-longest-repeating-character-replacement](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0424-longest-repeating-character-replacement) |
@@ -246,6 +247,7 @@
 | [0020-valid-parentheses](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0042-trapping-rain-water) |
+| [0385-mini-parser](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0388-longest-absolute-file-path) |
 | [0445-add-two-numbers-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0456-132-pattern) |
@@ -345,6 +347,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0385-mini-parser](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0388-longest-absolute-file-path) |
 | [0419-battleships-in-a-board](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0419-battleships-in-a-board) |
