@@ -61,6 +61,7 @@
 | [0022-generate-parentheses](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0032-longest-valid-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0032-longest-valid-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
