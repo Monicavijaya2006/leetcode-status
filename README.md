@@ -23,6 +23,7 @@
 | [0042-trapping-rain-water](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0046-permutations) |
+| [0427-construct-quad-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0454-4sum-ii) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0023-merge-k-sorted-lists) |
+| [0427-construct-quad-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0427-construct-quad-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0036-valid-sudoku) |
+| [0427-construct-quad-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0427-construct-quad-tree) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1632-rank-transform-of-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Monicavijaya2006/leetcode-status/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -324,5 +327,6 @@
 ## Tree
 |  |
 | ------- |
+| [0427-construct-quad-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0427-construct-quad-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0429-n-ary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
