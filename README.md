@@ -20,6 +20,7 @@
 | [0039-combination-sum](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,11 +116,13 @@
 | [0032-longest-valid-parentheses](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0045-jump-game-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0045-jump-game-ii) |
 ## Sorting
 |  |
 | ------- |
