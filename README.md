@@ -369,6 +369,7 @@
 | ------- |
 | [0427-construct-quad-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0427-construct-quad-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0450-delete-node-in-a-bst) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0572-subtree-of-another-tree) |
@@ -379,9 +380,14 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
