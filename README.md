@@ -315,6 +315,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0014-longest-common-prefix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Segment Tree
 |  |
 | ------- |
