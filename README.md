@@ -95,6 +95,7 @@
 | [0013-roman-to-integer](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0043-multiply-strings) |
+| [0365-water-and-jug-problem](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0368-largest-divisible-subset) |
 | [0384-shuffle-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0384-shuffle-an-array) |
@@ -336,6 +337,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0365-water-and-jug-problem) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0433-minimum-genetic-mutation](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0449-serialize-and-deserialize-bst) |
@@ -355,6 +357,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0388-longest-absolute-file-path) |
