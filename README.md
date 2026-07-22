@@ -23,6 +23,7 @@
 | [0042-trapping-rain-water](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0046-permutations) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -47,6 +48,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0036-valid-sudoku) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0433-minimum-genetic-mutation) |
@@ -226,6 +228,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0029-divide-two-integers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -266,6 +269,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
