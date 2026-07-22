@@ -105,6 +105,7 @@
 | [0038-count-and-say](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0044-wildcard-matching) |
+| [0434-number-of-segments-in-a-string](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0459-repeated-substring-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1081-smallest-subsequence-of-distinct-characters) |
