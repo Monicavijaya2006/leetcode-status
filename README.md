@@ -27,6 +27,7 @@
 | [1632-rank-transform-of-a-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1632-rank-transform-of-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Monicavijaya2006/leetcode-status/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
@@ -59,6 +60,7 @@
 | [0013-roman-to-integer](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0043-multiply-strings) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -135,6 +137,7 @@
 | [0042-trapping-rain-water](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0045-jump-game-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greedy
 |  |
 | ------- |
@@ -244,4 +247,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
