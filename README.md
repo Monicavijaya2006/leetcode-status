@@ -149,6 +149,7 @@
 | [0038-count-and-say](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0044-wildcard-matching) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0345-reverse-vowels-of-a-string) |
 | [0385-mini-parser](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0388-longest-absolute-file-path) |
 | [0420-strong-password-checker](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0420-strong-password-checker) |
@@ -211,6 +212,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0042-trapping-rain-water) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0455-assign-cookies) |
