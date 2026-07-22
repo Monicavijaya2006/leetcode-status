@@ -29,6 +29,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0368-largest-divisible-subset](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0384-shuffle-an-array) |
@@ -194,6 +195,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0456-132-pattern) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Monicavijaya2006/leetcode-status/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -267,6 +269,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -301,6 +304,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0355-design-twitter) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0420-strong-password-checker](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0451-sort-characters-by-frequency) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Monicavijaya2006/leetcode-status/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -326,6 +330,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0036-valid-sudoku) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0427-construct-quad-tree) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1632-rank-transform-of-a-matrix) |
