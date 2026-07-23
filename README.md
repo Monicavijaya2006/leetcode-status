@@ -2,7 +2,7 @@
 
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Monica%20Vijaya%20J?theme=dark&font=ABeeZee&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/1MEBi45o8Q?theme=dark&font=ABeeZee)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
