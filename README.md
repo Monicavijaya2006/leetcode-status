@@ -1,4 +1,6 @@
 # leetcode-status
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Monica%20Vijaya%20J?theme=light&font=Bonheur%20Royale)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
