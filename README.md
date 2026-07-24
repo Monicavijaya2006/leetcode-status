@@ -62,6 +62,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -135,6 +136,7 @@
 | [0556-next-greater-element-iii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0564-find-the-closest-palindrome) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -341,6 +343,7 @@
 | [0029-divide-two-integers](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0029-divide-two-integers) |
 | [0260-single-number-iii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0260-single-number-iii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Monicavijaya2006/leetcode-status/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -432,6 +435,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/Monicavijaya2006/leetcode-status/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Monicavijaya2006/leetcode-status/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
